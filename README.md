@@ -28,3 +28,8 @@ And will show you what it would rename it as:
 * Useful for some media players / library software (kodi) to correctly identify the containing title (and
   also looks a hell of a lot neater).
 
+### _clean.sh
+
+Cleans all files recursively:
+* rar and associated part-archive (r00,r01 or s00,s01 etc..)
+* .exe, .par2, .ignore, .bat and a few others
